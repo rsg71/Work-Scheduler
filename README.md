@@ -7,5 +7,6 @@ This project is an online schedule which can be utilized for note taking, keepin
 Notes can be entered into the input fields and saved with the blue save button; if the user refreshes the page, their notes will still be stored in the input field.
 
 
+https://rsg71.github.io/Work-Scheduler/
 
-<img src="imgs/Work Day Scheduler.gif" alt="Work Scheduler gif">
+<img src="Work Day Scheduler.gif" alt="Work Scheduler gif">
