@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-color:rgb(151, 148, 148);
+    background-image: url("imgs/work-scheduler-background.jpg");
   }
   
   textarea{
