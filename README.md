@@ -7,4 +7,4 @@ Notes can be entered into the input fields and saved with the save button and cl
 
 https://rsg71.github.io/Work-Scheduler/
 
-<img src="imgs/scheduler.PNG" alt="Work Scheduler gif">
+<img src="imgs/scheduler.PNG" alt="Work Scheduler">

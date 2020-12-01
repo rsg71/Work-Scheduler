@@ -12,21 +12,7 @@ function saveInfo(event) {
 
 }
 
-// $(document).on("submit", "form.form-group", function(event) {
-//     event.preventDefault();
 
-//     var id = $(this).data("num");
-    
-//     console.log('form submitted')
-//     console.log(`${id} submitted`)
-// })
-
-// $(".saveBtn").on("click", function(event) {
-//     event.preventDefault();
-//     var id = $(this).data("num")
-//     console.log(id)
-
-// })
 
 
 
